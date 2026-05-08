@@ -1,6 +1,3 @@
-# Roll-My-Dice-Privacy-Policy
-Privacy Policy for the app Roll My Dice
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +7,7 @@ Privacy Policy for the app Roll My Dice
 </head>
 <body>
   <h1>Privacy Policy</h1>
-  <p><style>
+  <p1><style>
   [data-custom-class='body'], [data-custom-class='body'] * {
           background: transparent !important;
         }
@@ -64,6 +61,6 @@ word-break: break-word !important;
       }
     </style>
       </div>
-      <br><div><span data-custom-class='body_text'>This Privacy Policy was created using Termly's </span><a href="https://termly.io/products/privacy-policy-generator/" target="_blank" rel="noopener external" data-custom-class='link'>Privacy Policy Generator</a></div></p>
+      <br><div><span data-custom-class='body_text'>This Privacy Policy was created using Termly's </span><a href="https://termly.io/products/privacy-policy-generator/" target="_blank" rel="noopener external" data-custom-class='link'>Privacy Policy Generator</a></div></p1>
 </body>
 </html>
